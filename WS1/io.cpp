@@ -12,7 +12,7 @@ namespace seneca {
         void read(char* name) {
 
                 std::cout << "Name\n> ";
-                std::cin >> name;
+                std::cin >> name; //cpp version <= 17
         }
         void print(long long int phone_num) {
 
@@ -88,3 +88,4 @@ namespace seneca {
                 }
         }
 }
+
