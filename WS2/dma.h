@@ -1,6 +1,3 @@
-//
-// Created by masti on 10/14/2025.
-//
 
 #ifndef DMA_H
 #define DMA_H
@@ -17,3 +14,4 @@ namespace seneca {
     void freemem(Samples*& s);
 }
 #endif //DMA_H
+
