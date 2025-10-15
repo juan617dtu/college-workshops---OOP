@@ -1,6 +1,4 @@
-//
-// Created by masti on 10/14/2025.
-//
+
 #include "dma.h"
 #include "cstr.h"
 #include <cstring>
@@ -62,3 +60,4 @@ namespace seneca {
         s = nullptr;
     }
 }
+
