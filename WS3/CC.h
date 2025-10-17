@@ -1,6 +1,4 @@
-//
-// Created by masti on 10/15/2025.
-//
+
 
 #ifndef CC_H
 #define CC_H
@@ -32,3 +30,4 @@ namespace seneca {
     };
 }
 #endif //CC_H
+
