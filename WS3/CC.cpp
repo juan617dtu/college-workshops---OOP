@@ -1,6 +1,4 @@
-//
-// Created by masti on 10/15/2025.
-//
+
 
 #include "CC.h"
 #include "cstr.h"
@@ -119,3 +117,4 @@ namespace seneca {
         deallocate();
     }
 }
+
