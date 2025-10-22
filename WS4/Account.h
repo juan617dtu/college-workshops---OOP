@@ -1,6 +1,3 @@
-//
-// Created by masti on 10/17/2025.
-//
 #ifndef ACCOUNT_H
 #define ACCOUNT_H
 #include <iostream>
@@ -38,3 +35,4 @@ namespace seneca {
     };
 }
 #endif //ACCOUNT_H
+
