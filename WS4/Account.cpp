@@ -1,6 +1,4 @@
-//
-// Created by masti on 10/17/2025.
-//
+
 #include <iostream>
 #include "Account.h"
 
@@ -200,4 +198,5 @@ namespace seneca {
        return back_up;
     }
 }
+
 
