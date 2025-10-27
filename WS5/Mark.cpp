@@ -1,6 +1,3 @@
-//
-// Created by masti on 10/22/2025.
-//
 /***********************************************************************/
 #include <iostream>
 #include <cmath> // for round function
@@ -216,5 +213,6 @@ namespace seneca {
 
       return value / (int)mark.m_value;
    }
+
 
 }
