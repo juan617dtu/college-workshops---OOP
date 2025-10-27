@@ -1,6 +1,3 @@
-//
-// Created by masti on 10/22/2025.
-//
 #ifndef SENECA_MARK_H
 #define SENECA_MARK_H
 #include <iostream>
@@ -136,3 +133,4 @@ namespace seneca {
 }
 
 #endif // !SENECA_MARK_H
+
