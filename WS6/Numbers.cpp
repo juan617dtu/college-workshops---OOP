@@ -1,6 +1,4 @@
-//
-// Created by masti on 10/27/2025.
-//
+
 #include "Numbers.h"
 #include <fstream>
 
@@ -132,3 +130,4 @@ namespace seneca {
         return istr;
     }
 }
+
