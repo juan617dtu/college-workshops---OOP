@@ -1,7 +1,3 @@
-//
-// Created by masti on 11/4/2025.
-//
-
 #include "Professor.h"
 
 #include <iomanip>
@@ -75,3 +71,4 @@ namespace seneca {
         return P.read( istr );
     }
 }
+
