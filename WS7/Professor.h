@@ -1,7 +1,3 @@
-//
-// Created by masti on 11/4/2025.
-//
-
 #ifndef PROFESSOR_H
 #define PROFESSOR_H
 #include "Employee.h"
@@ -27,3 +23,4 @@ namespace seneca {
     std::istream& operator>>( std::istream& istr, Professor& P );
 }
 #endif //PROFESSOR_H
+
