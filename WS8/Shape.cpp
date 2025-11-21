@@ -1,7 +1,3 @@
-//
-// Created by masti on 11/6/2025.
-//
-
 #include "Shape.h"
 
 namespace seneca {
@@ -16,4 +12,5 @@ namespace seneca {
         shape.getSpecs(is);
         return is;
     }
+
 }
