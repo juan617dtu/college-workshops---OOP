@@ -1,7 +1,3 @@
-//
-// Created by masti on 11/6/2025.
-//
-
 #include "LblShape.h"
 #include "Utils.h"
 
@@ -32,3 +28,4 @@ namespace seneca {
 
 
 }
+
