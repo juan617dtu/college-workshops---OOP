@@ -1,7 +1,3 @@
-//
-// Created by masti on 11/6/2025.
-//
-
 #include "Line.h"
 #include "Utils.h"
 
@@ -27,3 +23,4 @@ namespace seneca {
         is.ignore(1000, '\n');
     }
 }
+
