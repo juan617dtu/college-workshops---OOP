@@ -1,7 +1,3 @@
-//
-// Created by masti on 11/21/2025.
-//
-
 #include "Transcript.h"
 
 #include "Utils.h"
@@ -57,3 +53,4 @@ namespace seneca {
         return ostr;
     }
 }
+
