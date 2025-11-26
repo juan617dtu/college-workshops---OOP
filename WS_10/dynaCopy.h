@@ -1,7 +1,3 @@
-//
-// Created by masti on 11/25/2025.
-//
-
 #ifndef DYNACOPY_H
 #define DYNACOPY_H
 
@@ -33,3 +29,4 @@ void prnArray(const T* array, int size) {
     std::cout << std::endl;
 }
 #endif //DYNACOPY_H
+
