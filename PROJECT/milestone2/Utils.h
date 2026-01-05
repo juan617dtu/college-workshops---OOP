@@ -1,4 +1,3 @@
-
 #ifndef SENECA_UTILS_H
 #define SENECA_UTILS_H
 namespace seneca {
@@ -18,5 +17,6 @@ namespace seneca {
     // to call a Utils function call it as follows
     // ut.strcpy(des, src);
 }
+
 
 #endif // !SENECA_UTILS_H
