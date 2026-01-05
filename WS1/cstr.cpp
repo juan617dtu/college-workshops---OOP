@@ -1,6 +1,3 @@
-//
-// Created by masti on 10/6/2025.
-//
 #include "cstr.h"
 #include <cstring>
 
@@ -133,5 +130,6 @@ namespace seneca {
    bool isspace(char ch) {
       return ch == ' ' || ch == '\t' || ch == '\n' || ch == '\v' || ch == '\f' || ch == '\r';
    }
+
 
 }
