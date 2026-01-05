@@ -1,7 +1,3 @@
-//
-// Created by masti on 10/6/2025.
-//
-
 #ifndef SENECA_CSTR_H
 #define SENECA_CSTR_H
 #include <cstring>
@@ -24,3 +20,4 @@ namespace seneca {
    bool isspace(char ch);
 }
 #endif //SENECA_CSTR_H
+
