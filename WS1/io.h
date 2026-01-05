@@ -1,7 +1,3 @@
-//
-// Created by masti on 10/6/2025.
-//
-
 #ifndef IO_H
 #define IO_H
 #include <cstring>
@@ -25,3 +21,4 @@ namespace seneca {
     void sort(PhoneRec* array[], size_t array_size, bool sort_criteria);
 }
 #endif //IO_H
+
