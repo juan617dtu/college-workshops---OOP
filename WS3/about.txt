@@ -1,0 +1,2 @@
+Implementation of member functions, constructors, destructor and application of privacy and a safe empty state for a class
+called "CC", that encapsulates a Credit Card (in CC.h and CC.cpp) and displays the credit card information.
