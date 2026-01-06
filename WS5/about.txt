@@ -1,0 +1,2 @@
+Implementation of the Mark class, which encapsulates a mark for an assessment. 
+Includes methods for formatted display, helper functions to facilitate input and output using fstream and iostream, and implementation of basic arithmetic operations involving primitive types.
