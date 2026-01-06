@@ -1,0 +1,2 @@
+Implementation of the Account module, which models a bank account with an account number (an integer), a balance (a double value), and the account holder’s name (a character array),
+using different types of member operator overloads
