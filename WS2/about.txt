@@ -1,0 +1,2 @@
+Implementation of a dynamic memory management module that works with structured sensor data,
+a backend system that processes a incoming sensor reading file
