@@ -1,0 +1,1 @@
+Implementation of the copy constructor and copy assignment operator to prevent memory leak and resize allocated memory.
