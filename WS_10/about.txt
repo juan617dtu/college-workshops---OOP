@@ -1,0 +1,2 @@
+implementation of a module containing three function templates. 
+These templates are designed for dynamically copying arrays of objects and printing their contents.
