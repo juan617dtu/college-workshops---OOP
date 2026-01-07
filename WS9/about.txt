@@ -1,0 +1,1 @@
+Workshop about proper management of resources and implementing its functionality effectively
