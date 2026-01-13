@@ -1,0 +1,24 @@
+| Name            | Emp No | $alary |
+| Edna Krabappel  | 011222 |  76543 |
+Enter the following:
+John Doe, 12312, 76543.0<ENTER>
+> John Doe, 12312, 76543.0
+You enterd:
+| Name            | Emp No | $alary |
+| John Doe        | 012312 |  76543 |
+List of employees in file!
+| Name            | Emp No | $alary |
+| Abraham Simpson | 052996 |  80084 |
+| Agnes Skinner   | 073737 |  32943 |
+| Akira Kurosawa  | 076008 |  55772 |
+| Alice Click     | 023802 |  15311 |
+| Allison Taylor  | 063877 |  93972 |
+| Apu Nahasapeema | 036915 |  63416 |
+| Artie Ziff      | 026138 |  44801 |
+| Baby Gerald     | 081158 |  90670 |
+| Barney Gumble   | 054817 |  54859 |
+| Bart Simpson    | 088137 |  47608 |
+| Bernice Hibbert | 268411 |  27777 |
+| Brandine Spuckl | 095291 |  51500 |
+| Bumblebee Man   | 117493 |  43554 |
+| Carl Carlson    | 928072 |  23678 |
