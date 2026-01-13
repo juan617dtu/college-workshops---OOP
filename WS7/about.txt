@@ -1,1 +1,2 @@
-working with classes organized in a hierarchical structure, focusing on creating derived classes and implementing custom input/output operators.
+working with classes organized in a hierarchical structure, 
+focusing on creating derived classes and implementing custom input/output operators.
