@@ -2,7 +2,7 @@ Workshop 7 tester Version 1.1.
 Corrected the order of data in console entery test
 ==================================================
 | Name            | Emp No | $alary | Teaching Subject     | Sec # | $Dev Pay |
-|                 | 000000 |      0 | OOP345 - Object-Orie |     3 |     0.00 |
+| Edna Krabappel  | 011222 |  76543 | OOP345 - Object-Orie |     3 |  2296.29 |
 Enter the following:
 John Doe, 12312, 65432,IPC144 - Introduction to Programming Using C,3<ENTER>
 > John Doe, 12312, 65432,IPC144 - Introduction to Programming Using C,3
