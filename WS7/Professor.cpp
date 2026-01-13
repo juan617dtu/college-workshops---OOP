@@ -45,9 +45,9 @@ namespace seneca {
         ostr << " " << std::setw(20);
         ostr.setf(std::ios::left);
         if (m_subject_name) {
-            char buffer[21]{};
-            ut.strcpy(buffer, m_subject_name, 20);
-            ostr << buffer;
+            char subject[21]{};
+            ut.strcpy(subject, m_subject_name, 20);
+            ostr << subject;
         }
         ostr.unsetf(std::ios::left);
         ostr << " | " << std::setw(5);
