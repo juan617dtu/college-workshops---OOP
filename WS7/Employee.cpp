@@ -27,12 +27,12 @@ namespace seneca {
    }
 
    std::ostream& Employee::write(std::ostream& ostr)const{
-      char name2print[16]{};
-      if(m_name) ut.strcpy(name2print, m_name,15);
+      char buffer[16]{};
+      if(m_name) ut.strcpy(buffer, m_name,15);
       ostr << "| ";
       ostr.width(15);
       ostr.setf(ios::left);
-      ostr << name2print << " | ";
+      ostr << buffer << " | ";
       ostr.unsetf(ios::left);
       ostr.width(6);
       ostr.fill('0');
