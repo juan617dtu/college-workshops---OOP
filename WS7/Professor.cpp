@@ -10,9 +10,9 @@ namespace seneca {
         m_subject_name = nullptr;
         m_sections_number = 0;
     }
-    Professor::Professor(const char *name, const char *subject_name, int sections_num, size_t employee_num, double salary) {
+    Professor::Professor(const char *name, const char *subject_name, int sections_num, size_t employee_num,
+        double salary) : Employee(name, employee_num, salary) {
 
-        Employee(name, employee_num, salary);
         m_subject_name = ut.alocpy(subject_name);
         m_sections_number = sections_num;
     }
