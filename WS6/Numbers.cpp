@@ -1,4 +1,3 @@
-
 #include "Numbers.h"
 #include <fstream>
 
@@ -109,11 +108,11 @@ namespace seneca {
             }
             ostr << std::endl << "-------------------------\n";
             ostr << "Total of " << m_numCount << " number(s)\n";
-            ostr << "Largest number: " << m_numbers[m_numCount-1] << std::endl;
+            ostr << "Largest number:  " << m_numbers[m_numCount-1] << std::endl;
             ostr << "Smallest number: " << m_numbers[0] << std::endl;
             double sum = 0;
             for (size_t i = 0; i < m_numCount; ++i) sum += m_numbers[i];
-            ostr << "Average: " << sum / m_numCount << std::endl;
+            ostr << "Average:         " << sum / m_numCount << std::endl;
             ostr << "=========================";
         }
         return ostr;
@@ -130,4 +129,3 @@ namespace seneca {
         return istr;
     }
 }
-
