@@ -22,7 +22,7 @@ namespace seneca {
     }
     double Professor::devPay() const {
 
-        return (salary() / 100) * m_sections_number;
+        return salary() / 100 * m_sections_number;
     }
     std::istream& Professor::read(std::istream& istr) {
 
@@ -71,4 +71,3 @@ namespace seneca {
         return P.read( istr );
     }
 }
-
