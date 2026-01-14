@@ -1,7 +1,3 @@
-//
-// Created by masti on 1/8/2026.
-//
-
 #ifndef ORDERING_H
 #define ORDERING_H
 #include "Food.h"
@@ -40,3 +36,4 @@ namespace seneca {
     };
 }
 #endif //ORDERING_H
+
