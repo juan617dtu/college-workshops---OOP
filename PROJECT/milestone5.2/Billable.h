@@ -1,7 +1,3 @@
-//
-// Created by masti on 1/6/2026.
-//
-
 #ifndef BILLABLE_H
 #define BILLABLE_H
 #include <iostream>
@@ -35,3 +31,4 @@ namespace seneca {
     };
 }
 #endif //BILLABLE_H
+
