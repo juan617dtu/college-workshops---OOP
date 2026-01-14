@@ -10,7 +10,7 @@ namespace seneca {
         int m_length{};
     public:
         // Default constructor
-        Line();
+        Line() = default;
 
         // Constructor that initializes label and length
         Line(const char* label, int length);
