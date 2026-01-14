@@ -1,7 +1,3 @@
-//
-// Created by masti on 1/8/2026.
-//
-
 #include "Ordering.h"
 #include "Menu.h"
 #include "Utils.h"
@@ -147,4 +143,5 @@ namespace seneca {
         m_bill_sn++;
         m_billable_counter = 0;
     }
+
 }
