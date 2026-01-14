@@ -1,7 +1,3 @@
-//
-// Created by masti on 1/6/2026.
-//
-
 #ifndef DRINK_H
 #define DRINK_H
 #include "Billable.h"
@@ -23,3 +19,4 @@ namespace seneca {
     };
 }
 #endif //DRINK_H
+
