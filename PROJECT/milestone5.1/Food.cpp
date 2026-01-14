@@ -1,7 +1,3 @@
-//
-// Created by masti on 1/6/2026.
-//
-
 #include "Food.h"
 #include "Utils.h"
 #include "Menu.h"
@@ -96,3 +92,4 @@ namespace seneca {
         m_customize = nullptr;
     }
 }
+
