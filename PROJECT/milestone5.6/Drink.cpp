@@ -1,7 +1,3 @@
-//
-// Created by masti on 1/6/2026.
-//
-
 #include "Drink.h"
 #include "Menu.h"
 #include <iomanip>
@@ -80,3 +76,4 @@ namespace seneca {
         return Billable::price() * 1.5 ;
     }
 }
+
