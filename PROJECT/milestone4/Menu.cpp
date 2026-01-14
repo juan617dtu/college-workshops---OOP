@@ -1,7 +1,3 @@
-//
-// Created by masti on 1/2/2026.
-//
-
 #include "Menu.h"
 #include "Utils.h"
 #include "constants.h"
@@ -113,3 +109,4 @@ namespace seneca {
         return 0;
     }
 }
+
