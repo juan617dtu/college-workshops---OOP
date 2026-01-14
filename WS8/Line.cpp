@@ -1,9 +1,9 @@
 #include "Line.h"
-#include "Utils.h"
+//#include "Utils.h"
 
 namespace seneca {
 
-    Line::Line() : LblShape(), m_length(0) {}
+    //Line::Line() : LblShape(), m_length(0) {}
 
     Line::Line(const char *label, int length) : LblShape(label) {
 
@@ -23,4 +23,3 @@ namespace seneca {
         is.ignore(1000, '\n');
     }
 }
-
