@@ -1,7 +1,3 @@
-//
-// Created by masti on 1/2/2026.
-//
-
 #ifndef MENU_H
 #define MENU_H
 #include <iostream>
@@ -51,3 +47,4 @@ namespace seneca {
     size_t operator<<(std::ostream& ostr, const Menu& m);
 }
 #endif //MENU_H
+
