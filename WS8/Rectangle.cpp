@@ -3,7 +3,7 @@
 
 namespace seneca {
 
-    Rectangle::Rectangle() : LblShape(), m_height(0), m_width(0) {}
+    //Rectangle::Rectangle() : LblShape(), m_height(0), m_width(0) {}
 
     Rectangle::Rectangle(const char *label, int width, int height) : LblShape(label) {
 
@@ -46,5 +46,4 @@ namespace seneca {
             os << '+';
         }
     }
-
 }
