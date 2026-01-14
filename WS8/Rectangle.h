@@ -11,7 +11,7 @@ namespace seneca {
         int m_height{};
     public:
         // Default constructor
-        Rectangle();
+        Rectangle() = default;
 
         // Constructor that initializes label, width, and height
         Rectangle(const char* label, int width, int height);
