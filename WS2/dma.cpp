@@ -1,6 +1,4 @@
-
 #include "dma.h"
-#include "cstr.h"
 #include <cstring>
 
 namespace seneca {
@@ -60,4 +58,3 @@ namespace seneca {
         s = nullptr;
     }
 }
-
