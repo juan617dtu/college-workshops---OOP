@@ -1,13 +1,9 @@
-
-
 #ifndef CC_H
 #define CC_H
 
 namespace seneca {
 
     class CC {
-
-    private:
 
         char* carholders_name{};
         short cvv{}, expiry_month{}, expiry_year{};
@@ -30,4 +26,3 @@ namespace seneca {
     };
 }
 #endif //CC_H
-
