@@ -1,5 +1,3 @@
-
-
 #include "CC.h"
 #include "cstr.h"
 #include <iostream>
@@ -14,7 +12,6 @@ namespace seneca {
             carholders_name = new char[len + 1];
             strcpy(carholders_name, name);
         }
-        else carholders_name = nullptr;
     }
     void CC::deallocate() {
 
@@ -117,4 +114,3 @@ namespace seneca {
         deallocate();
     }
 }
-
