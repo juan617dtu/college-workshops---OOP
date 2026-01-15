@@ -23,11 +23,12 @@ namespace seneca {
         LblShape& operator=(const LblShape&) = delete;
 
         // Reads label specifications from input stream;
-        virtual void getSpecs(std::istream& is) override;
+        void getSpecs(std::istream& is) override;
 
         // Destructor to release dynamically allocated memory
         virtual ~LblShape();
     };
 }
+
 
 #endif // !SENECA_LABELEDSHAPE_H
