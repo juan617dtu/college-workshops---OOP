@@ -1,7 +1,3 @@
-//
-// Created by masti on 1/19/2026.
-//
-
 #include "TagList.h"
 
 namespace seneca {
@@ -37,3 +33,4 @@ namespace seneca {
         m_tag_list = nullptr;
     }
 }
+
