@@ -1,7 +1,3 @@
-//
-// Created by masti on 1/19/2026.
-//
-
 #ifndef TAGLIST_H
 #define TAGLIST_H
 #include "NameTag.h"
@@ -23,3 +19,4 @@ namespace seneca {
     };
 }
 #endif //TAGLIST_H
+
