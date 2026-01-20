@@ -1,0 +1,4 @@
+creation of two classes. 
+
+the first class (NameTag) holds a name, up to 50 chars (not dynamic), and print it with a frame around it.
+the second class holds a dynamic array of NameTags and prints all the tags with the frame size matching the longest name in the list.
