@@ -1,7 +1,3 @@
-//
-// Created by masti on 1/19/2026.
-//
-
 #ifndef NAMETAG_H
 #define NAMETAG_H
 #include <cstddef>
@@ -22,3 +18,4 @@ namespace seneca {
     };
 }
 #endif //NAMETAG_H
+
