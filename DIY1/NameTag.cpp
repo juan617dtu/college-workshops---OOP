@@ -1,7 +1,3 @@
-//
-// Created by masti on 1/19/2026.
-//
-
 #include "NameTag.h"
 #include <iostream>
 
@@ -38,3 +34,4 @@ namespace seneca {
         std::cout << '\n';
     }
 }
+
