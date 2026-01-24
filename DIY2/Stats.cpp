@@ -110,8 +110,9 @@ namespace seneca {
         int count = 0u;
         for (size_t i = 0; i < m_array_size; ++i) {
             if (m_stats[i] >= min and m_stats[i] <= max) {
-                ostr << m_stats[i] << "\tOccurrence: " << i << '\n';
                 count++;
+                ostr << std::setw(static_cast<int>(m_column_width)) << std::setprecision(static_cast<int>(m_precision))
+                << m_stats[i] << "\tOccurrence: " << count << '\n';
             }
         }
         return count;
