@@ -112,7 +112,7 @@ namespace seneca {
             if (m_stats[i] >= min and m_stats[i] <= max) {
                 count++;
                 ostr << std::setw(static_cast<int>(m_column_width)) << std::setprecision(static_cast<int>(m_precision))
-                << m_stats[i] << "\tOccurrence: " << count << '\n';
+                << m_stats[i] << '\n';
             }
         }
         return count;
