@@ -14,7 +14,7 @@ namespace seneca {
         std::string m_filename{};
         size_t m_array_size{};
         //private helper
-        void load_from_file(Stats& stats);
+        void load_from_file(Stats& stats) const;
 
     public:
         // constructors
@@ -41,9 +41,8 @@ namespace seneca {
         void sort(bool ascending);
         unsigned occurrence(double min, double max, std::ostream& ostr = std::cout);
         //i/o operators
-        friend std::ostream& operator<<(std::ostream& ostr, Stats& stats);
+        friend std::ostream& operator<<(std::ostream& ostr, const Stats& stats);
         friend std::istream& operator>>(std::istream& istr, Stats& stats);
     };
 }
 #endif //STATS_H
-
