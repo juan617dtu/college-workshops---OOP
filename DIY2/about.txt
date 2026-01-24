@@ -1,0 +1,12 @@
+Creation of a module that can represent a file on the hard disk containing comma-separated numbers.
+
+This module is able to load the numbers and perform the following tasks.
+
+-An object is able to display the numbers in a tabular format on ostream in a specified number of columns, column width and precision.
+-An object is able to display the numbers that fall within a specific range and the number of their occurrence.
+-An object is able to sort the numbers in an ascending or descending order.
+-Copying an object is done safely and doing so also copies the data file on the hard disk. 
+The new file name is the same as the original file with an added "C_" prefix.
+-Assigning an object to another is done safely and the content of the target file is overwritten by the source file.
+-An object also makes the numbers available to the user program by indexing like an array.
+-An object is able to receive the data file name from the istream and load the data from the file on the hard drive.
