@@ -1,5 +1,6 @@
 Type numbers.csv and hit <ENTER>
 Enter the data file name: numbers.csv
+
     -3e+05     4e+05    -4e+05     5e+05    -6e+05    -3e+05     6e+05
     -5e+05    -6e+05     9e+04     2e+05    -6e+05     1e+04     3e+05
     -3e+05    -5e+05     3e+04     3e+05     2e+05    -4e+05     2e+05
@@ -267,173 +268,173 @@ T[190]: -569394.7
 
 -------------------------------------------------------------
 Total of 1343 numbers in numbers.csv
-1e+04	Occurrence: 12
-3e+04	Occurrence: 16
-1e+04	Occurrence: 29
-9e+03	Occurrence: 101
--1e+04	Occurrence: 121
-3e+04	Occurrence: 125
-1e+04	Occurrence: 217
-8e+03	Occurrence: 302
-3e+04	Occurrence: 317
--1e+04	Occurrence: 332
-2e+03	Occurrence: 335
-3e+04	Occurrence: 354
-6e+02	Occurrence: 361
-3e+04	Occurrence: 374
-2e+04	Occurrence: 399
-5e+03	Occurrence: 411
--1e+04	Occurrence: 507
-7e+03	Occurrence: 514
-2e+04	Occurrence: 557
-9e+03	Occurrence: 560
-3e+04	Occurrence: 561
-5e+03	Occurrence: 580
-1e+04	Occurrence: 603
-6e+03	Occurrence: 672
-2e+04	Occurrence: 796
-2e+04	Occurrence: 803
-3e+04	Occurrence: 832
-3e+04	Occurrence: 881
-2e+04	Occurrence: 893
--6e+03	Occurrence: 905
-1e+04	Occurrence: 916
--9e+03	Occurrence: 927
--7e+03	Occurrence: 932
-2e+04	Occurrence: 967
--2e+03	Occurrence: 976
-2e+04	Occurrence: 989
-1e+04	Occurrence: 990
-8e+03	Occurrence: 994
-1e+04	Occurrence: 1000
-3e+04	Occurrence: 1041
--3e+03	Occurrence: 1049
--1e+04	Occurrence: 1057
-1e+04	Occurrence: 1073
-8e+03	Occurrence: 1160
-8e+02	Occurrence: 1217
-1e+04	Occurrence: 1223
-2e+04	Occurrence: 1227
-2e+04	Occurrence: 1253
-2e+04	Occurrence: 1262
-2e+03	Occurrence: 1270
-1e+04	Occurrence: 1274
-2e+04	Occurrence: 1297
--1e+04	Occurrence: 1301
--2e+03	Occurrence: 1340
-3e+04	Occurrence: 1341
-Sorted Ascending: 
--1e+04	Occurrence: 684
--1e+04	Occurrence: 685
--1e+04	Occurrence: 686
--1e+04	Occurrence: 687
--1e+04	Occurrence: 688
--9e+03	Occurrence: 689
--7e+03	Occurrence: 690
--6e+03	Occurrence: 691
--3e+03	Occurrence: 692
--2e+03	Occurrence: 693
--2e+03	Occurrence: 694
-6e+02	Occurrence: 695
-8e+02	Occurrence: 696
-2e+03	Occurrence: 697
-2e+03	Occurrence: 698
-5e+03	Occurrence: 699
-5e+03	Occurrence: 700
-6e+03	Occurrence: 701
-7e+03	Occurrence: 702
-8e+03	Occurrence: 703
-8e+03	Occurrence: 704
-8e+03	Occurrence: 705
-9e+03	Occurrence: 706
-9e+03	Occurrence: 707
-1e+04	Occurrence: 708
-1e+04	Occurrence: 709
-1e+04	Occurrence: 710
-1e+04	Occurrence: 711
-1e+04	Occurrence: 712
-1e+04	Occurrence: 713
-1e+04	Occurrence: 714
-1e+04	Occurrence: 715
-1e+04	Occurrence: 716
-1e+04	Occurrence: 717
-2e+04	Occurrence: 718
-2e+04	Occurrence: 719
-2e+04	Occurrence: 720
-2e+04	Occurrence: 721
-2e+04	Occurrence: 722
-2e+04	Occurrence: 723
-2e+04	Occurrence: 724
-2e+04	Occurrence: 725
-2e+04	Occurrence: 726
-2e+04	Occurrence: 727
-2e+04	Occurrence: 728
-3e+04	Occurrence: 729
-3e+04	Occurrence: 730
-3e+04	Occurrence: 731
-3e+04	Occurrence: 732
-3e+04	Occurrence: 733
-3e+04	Occurrence: 734
-3e+04	Occurrence: 735
-3e+04	Occurrence: 736
-3e+04	Occurrence: 737
-3e+04	Occurrence: 738
-Sorted Descending: 
-3e+04	Occurrence: 604
-3e+04	Occurrence: 605
-3e+04	Occurrence: 606
-3e+04	Occurrence: 607
-3e+04	Occurrence: 608
-3e+04	Occurrence: 609
-3e+04	Occurrence: 610
-3e+04	Occurrence: 611
-3e+04	Occurrence: 612
-3e+04	Occurrence: 613
-2e+04	Occurrence: 614
-2e+04	Occurrence: 615
-2e+04	Occurrence: 616
-2e+04	Occurrence: 617
-2e+04	Occurrence: 618
-2e+04	Occurrence: 619
-2e+04	Occurrence: 620
-2e+04	Occurrence: 621
-2e+04	Occurrence: 622
-2e+04	Occurrence: 623
-2e+04	Occurrence: 624
-1e+04	Occurrence: 625
-1e+04	Occurrence: 626
-1e+04	Occurrence: 627
-1e+04	Occurrence: 628
-1e+04	Occurrence: 629
-1e+04	Occurrence: 630
-1e+04	Occurrence: 631
-1e+04	Occurrence: 632
-1e+04	Occurrence: 633
-1e+04	Occurrence: 634
-9e+03	Occurrence: 635
-9e+03	Occurrence: 636
-8e+03	Occurrence: 637
-8e+03	Occurrence: 638
-8e+03	Occurrence: 639
-7e+03	Occurrence: 640
-6e+03	Occurrence: 641
-5e+03	Occurrence: 642
-5e+03	Occurrence: 643
-2e+03	Occurrence: 644
-2e+03	Occurrence: 645
-8e+02	Occurrence: 646
-6e+02	Occurrence: 647
--2e+03	Occurrence: 648
--2e+03	Occurrence: 649
--3e+03	Occurrence: 650
--6e+03	Occurrence: 651
--7e+03	Occurrence: 652
--9e+03	Occurrence: 653
--1e+04	Occurrence: 654
--1e+04	Occurrence: 655
--1e+04	Occurrence: 656
--1e+04	Occurrence: 657
--1e+04	Occurrence: 658
+     1e+04
+     3e+04
+     1e+04
+     9e+03
+    -1e+04
+     3e+04
+     1e+04
+     8e+03
+     3e+04
+    -1e+04
+     2e+03
+     3e+04
+     6e+02
+     3e+04
+     2e+04
+     5e+03
+    -1e+04
+     7e+03
+     2e+04
+     9e+03
+     3e+04
+     5e+03
+     1e+04
+     6e+03
+     2e+04
+     2e+04
+     3e+04
+     3e+04
+     2e+04
+    -6e+03
+     1e+04
+    -9e+03
+    -7e+03
+     2e+04
+    -2e+03
+     2e+04
+     1e+04
+     8e+03
+     1e+04
+     3e+04
+    -3e+03
+    -1e+04
+     1e+04
+     8e+03
+     8e+02
+     1e+04
+     2e+04
+     2e+04
+     2e+04
+     2e+03
+     1e+04
+     2e+04
+    -1e+04
+    -2e+03
+     3e+04
+Sorted Ascending:
+    -1e+04
+    -1e+04
+    -1e+04
+    -1e+04
+    -1e+04
+    -9e+03
+    -7e+03
+    -6e+03
+    -3e+03
+    -2e+03
+    -2e+03
+     6e+02
+     8e+02
+     2e+03
+     2e+03
+     5e+03
+     5e+03
+     6e+03
+     7e+03
+     8e+03
+     8e+03
+     8e+03
+     9e+03
+     9e+03
+     1e+04
+     1e+04
+     1e+04
+     1e+04
+     1e+04
+     1e+04
+     1e+04
+     1e+04
+     1e+04
+     1e+04
+     2e+04
+     2e+04
+     2e+04
+     2e+04
+     2e+04
+     2e+04
+     2e+04
+     2e+04
+     2e+04
+     2e+04
+     2e+04
+     3e+04
+     3e+04
+     3e+04
+     3e+04
+     3e+04
+     3e+04
+     3e+04
+     3e+04
+     3e+04
+     3e+04
+Sorted Descending:
+     3e+04
+     3e+04
+     3e+04
+     3e+04
+     3e+04
+     3e+04
+     3e+04
+     3e+04
+     3e+04
+     3e+04
+     2e+04
+     2e+04
+     2e+04
+     2e+04
+     2e+04
+     2e+04
+     2e+04
+     2e+04
+     2e+04
+     2e+04
+     2e+04
+     1e+04
+     1e+04
+     1e+04
+     1e+04
+     1e+04
+     1e+04
+     1e+04
+     1e+04
+     1e+04
+     1e+04
+     9e+03
+     9e+03
+     8e+03
+     8e+03
+     8e+03
+     7e+03
+     6e+03
+     5e+03
+     5e+03
+     2e+03
+     2e+03
+     8e+02
+     6e+02
+    -2e+03
+    -2e+03
+    -3e+03
+    -6e+03
+    -7e+03
+    -9e+03
+    -1e+04
+    -1e+04
+    -1e+04
+    -1e+04
+    -1e+04
        -4.6e+05       -2.8e+05          4e+05         -4e+05
         4.6e+05       -6.1e+05       -3.1e+05        6.1e+05
        -5.2e+05       -5.8e+05        9.3e+04        1.6e+05
@@ -924,7 +925,7 @@ DUMP---------------------------------------------------------
 09.8114,270258.5266,-170020.2424,-61339.4519,83576.4399,305363.2351,535058.7678,
 -74288.5353,-396202.7854,-345916.7926,-561178.6408,410352.8468,9494.0376,12.23
 -------------------------------------------------------------
-Empty object tests: 
+Empty object tests:
 **
 0
 0
