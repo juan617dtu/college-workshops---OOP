@@ -1,7 +1,3 @@
-//
-// Created by masti on 1/21/2026.
-//
-
 #ifndef STATS_H
 #define STATS_H
 #include <string>
@@ -50,3 +46,4 @@ namespace seneca {
     };
 }
 #endif //STATS_H
+
