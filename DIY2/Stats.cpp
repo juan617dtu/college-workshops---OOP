@@ -4,7 +4,7 @@
 #include <iomanip>
 
 namespace seneca {
-    void Stats::load_from_file(Stats &stats) {
+    void Stats::load_from_file(Stats &stats) const {
 
         std::ifstream file(stats.m_filename);
         if (!file.is_open()) return;
@@ -107,13 +107,16 @@ namespace seneca {
     }
     unsigned Stats::occurrence(double min, double max, std::ostream &ostr) {
 
-        size_t i = 0;
-        for (; i < m_array_size; ++i) {
-            if (m_stats[i] >= min and m_stats[i] <= max) ostr << m_stats[i] << "\tOccurrence: " << i << '\n';
+        int count = 0u;
+        for (size_t i = 0; i < m_array_size; ++i) {
+            if (m_stats[i] >= min and m_stats[i] <= max) {
+                ostr << m_stats[i] << "\tOccurrence: " << i << '\n';
+                count++;
+            }
         }
-        return i;
+        return count;
     }
-    std::ostream& operator<<(std::ostream &ostr, Stats& stats) {
+    std::ostream& operator<<(std::ostream &ostr, const Stats& stats) {
 
         if (!stats) return ostr;
         unsigned columns = 0;
@@ -136,4 +139,3 @@ namespace seneca {
         return istr;
     }
 }
-
