@@ -1,7 +1,3 @@
-//
-// Created by masti on 1/21/2026.
-//
-
 #include "Stats.h"
 #include <algorithm>
 #include <fstream>
@@ -140,3 +136,4 @@ namespace seneca {
         return istr;
     }
 }
+
