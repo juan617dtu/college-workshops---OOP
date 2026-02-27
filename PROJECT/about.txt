@@ -1,3 +1,5 @@
+Dine-In Digital - A Restaurant Ordering System
+
 an application that enables waiters to take customer orders for food and drinks and generate a bill upon order completion. 
 Each bill will be numbered, and after an order is finalized, a copy of the bill will be saved in a separate file titled with the 
 corresponding bill number.
